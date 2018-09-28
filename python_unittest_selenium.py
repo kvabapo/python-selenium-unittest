@@ -48,7 +48,7 @@ class GalenWebsite(unittest.TestCase):
         self.assertEqual("hello", title[2].text)
         self.assertEqual("test", description[2].text)
 
-   def tearDown(self):
+    def tearDown(self):
         self.driver.close()
 
 if __name__ == "__main__":
