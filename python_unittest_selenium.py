@@ -1,7 +1,7 @@
 import unittest
 from selenium import webdriver
 
-class SearchText(unittest.TestCase):
+class GalenWebsite(unittest.TestCase):
     def setUp(self):
         self.driver = webdriver.Firefox()
         self.driver.implicitly_wait(30)
