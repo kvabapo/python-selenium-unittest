@@ -11,4 +11,4 @@ For this test to run, the following must be installed
 To run open command line and go to the folder.
 Type `python python_unittest_selenium.py`
 
-If you have pycharm, download or copy the file and run it on pycharm.
+If you have pycharm IDE, download and open the file, Run it on pycharm IDE.
